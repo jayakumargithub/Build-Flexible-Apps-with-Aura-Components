@@ -1,0 +1,11 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "namespace": "",
+  "sfdcLoginUrl": "https://empathetic-bear-1f0aeg-dev-ed.lightning.force.com/",
+  "sourceApiVersion": "48.0"
+}

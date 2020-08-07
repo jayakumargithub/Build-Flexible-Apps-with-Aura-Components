@@ -1,0 +1,16 @@
+{
+  "status": 0,
+  "result": {
+    "createdById": "0054K000000wFbLQAU",
+    "createdByName": "Jaya Kumar",
+    "createdDate": "2020-08-02T21:11:48.000Z",
+    "fileName": "triggers/AccountUpdate.trigger",
+    "fullName": "AccountUpdate",
+    "id": "01q4K000000gL2AQAU",
+    "lastModifiedById": "0054K000000wFbLQAU",
+    "lastModifiedByName": "Jaya Kumar",
+    "lastModifiedDate": "2020-08-02T21:14:09.000Z",
+    "manageableState": "unmanaged",
+    "type": "ApexTrigger"
+  }
+}
